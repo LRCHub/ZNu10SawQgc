@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "君に届け",
+  "base_artist": "flumpool",
+  "createdAt": "2025-12-22T13:46:45.454848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/01_君に届け_flumpool.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kimi ni Todoke [君に届け→]",
+      "artist": "Fire Bomber",
+      "has_synced": true,
+      "path": "select/02_Kimi_ni_Todoke_[君に届け→]_Fire_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/03_君に届け_高木さん(CV_高橋李依).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "椎名真昼(CV.石見舞菜香)",
+      "has_synced": true,
+      "path": "select/04_君に届け_椎名真昼(CV.石見舞菜香).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/05_君に届け_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君に届け...",
+      "artist": "MAY'S",
+      "has_synced": true,
+      "path": "select/06_君に届け..._MAY'S.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君に届け feat. 竹内美宥 (AKB48)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/07_君に届け_feat._竹内美宥_(AKB48)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君に届け - Kimi Ni Todoke",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/08_君に届け_-_Kimi_Ni_Todoke_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "flumpool",
+      "has_synced": true,
+      "path": "select/09_君に届け_flumpool.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "高木さん",
+      "has_synced": false,
+      "path": "select/10_君に届け_高木さん.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君に届け...",
+      "artist": "May's",
+      "has_synced": false,
+      "path": "select/11_君に届け..._May's.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/12_君に届け_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "君に届け",
+      "artist": "Ieiri, Leo",
+      "has_synced": false,
+      "path": "select/13_君に届け_Ieiri,_Leo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君に届け",
+      "artist": "flumpool",
+      "has_synced": false,
+      "path": "select/pl_01_君に届け_flumpool.txt"
+    }
+  ]
+}
